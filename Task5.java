@@ -6,7 +6,6 @@ public class Task5{
             NumColumn*=26;
             NumColumn+=ch-('A'-1);
         }
-        System.out.println("Номер строки: "+text.replaceAll("\\D","") +
-                " Номер столбца: "+NumColumn);
+        System.out.println("Номер строки: "+text.replaceAll("\\D","") + " Номер столбца: "+NumColumn);
     }
 }
