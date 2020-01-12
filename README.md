@@ -14,4 +14,4 @@
 Tasks  | Status
 ------ | -------
 [Task1](https://github.com/Al-DozoR/JAVA/tree/master/Homework7/Task1)  | выполнено
-Taks2  | <span style="color:blue">some *This is Blue italic.* text</span>
+Taks2  | в работе
