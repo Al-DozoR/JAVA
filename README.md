@@ -1,13 +1,13 @@
-### Homework1  
+### Homework 1  
 ---
-### Homework2  
+### Homework 2  
 ---
-### Homework3  
+### Homework 3  
 ---
-### Homework4  
+### Homework 4  
 ---
-### Homework5  
+### Homework 5  
 ---
-### Homework6  
+### Homework 6  
 ---
-### [Homework7](https://github.com/Al-DozoR/JAVA/tree/master/Homework7)  
+### [Homework 7](https://github.com/Al-DozoR/JAVA/tree/master/Homework7)  
