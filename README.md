@@ -11,7 +11,7 @@
 ### Homework 6  
 ---
 ### [Homework 7](https://github.com/Al-DozoR/JAVA/tree/master/Homework7)  
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+Tasks  | Status
+------ | -------
+[Task1](https://github.com/Al-DozoR/JAVA/tree/master/Homework7/Task1)  | done
+Taks2  | Content Cell
