@@ -13,5 +13,5 @@
 ### <h3 align="center">[Homework 7](https://github.com/Al-DozoR/JAVA/tree/master/Homework7)</h3>
 Tasks  | Status
 ------ | -------
-[Task1](https://github.com/Al-DozoR/JAVA/tree/master/Homework7/Task1)  | done
+`[Task1](https://github.com/Al-DozoR/JAVA/tree/master/Homework7/Task1)  | выполнено`
 Taks2  | Content Cell
